@@ -1,0 +1,9 @@
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.deps.json
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.pdb

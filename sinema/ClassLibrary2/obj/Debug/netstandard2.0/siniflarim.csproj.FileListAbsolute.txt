@@ -1,0 +1,9 @@
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\siniflarim.csprojAssemblyReference.cache
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\siniflarim.AssemblyInfoInputs.cache
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\siniflarim.AssemblyInfo.cs
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\siniflarim.csproj.CoreCompileInputs.cache
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\bin\Debug\netstandard2.0\siniflarim.deps.json
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\bin\Debug\netstandard2.0\siniflarim.dll
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\bin\Debug\netstandard2.0\siniflarim.pdb
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\siniflarim.dll
+C:\Users\kavuk\source\repos\sinema\ClassLibrary2\obj\Debug\netstandard2.0\siniflarim.pdb
